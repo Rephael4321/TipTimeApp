@@ -1,0 +1,2 @@
+com/example/tiptime/test/BuildConfig.java
+ com.example.tiptime.test.BuildConfig
